@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BakuraX
-- 👀 I’m interested in Rasberry Pi and Anduino Project
+- 👀 I’m interested in Rasberry Pi and Arduino Project
 - 🌱 I’m currently learning Rasberry Pi
 - 💞️ I’m looking to collaborate on Rasberry Pi
 - 📫 How to reach me chat
